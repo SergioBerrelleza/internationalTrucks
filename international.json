@@ -1,0 +1,28 @@
+{
+  "international": [
+    {
+      "name": "LT S13 INTEGRATED",
+      "img": "https://www.internationaltrucks.com/-/media/Project/International-Trucks/International-Trucks/USA/Models/LT-Series/General-Images/Orange_LT_Long_Haul_truck.jpg?h=320&iar=0&w=650&rev=3c2f472b078d4506b2c058da020ddcf6&hash=1DD73817858B63437A0D3D7A1977E919"
+    },
+    {
+      "name": "LoneStar",
+      "img": "https://www.internationaltrucks.com/-/media/Project/International-Trucks/International-Trucks/USA/Models/LoneStar/General-Images/LoneStar_SemiTruck_Day.jpg?h=320&iar=0&w=650&rev=ea863b1730dd47b7a240953a4b85d02c&hash=BC13D66020BB04E3C92B3A94693DCA6D"
+    },
+    {
+      "name": "MV Series",
+      "img": "https://www.internationaltrucks.com/-/media/Project/International-Trucks/International-Trucks/USA/Models/MV-Series/General-Images/MV_CityDelivery_truck.jpg?h=320&iar=0&w=650&rev=5c1a844f59d14e9ab9cbf7754398e7eb&hash=B3636BFBF8C8DB82A8A2D5D61F2D535E"
+    },
+    {
+      "name": "RH Series",
+      "img": "https://www.internationaltrucks.com/-/media/Project/International-Trucks/International-Trucks/USA/Models/RH-Series/General-Images/RH_Long_Haul_truck.jpg?h=320&iar=0&w=650&rev=29bb9d2a36574ec1aa185b62f6ac7a03&hash=5468DE8507F07E8E79F7F63F16C51942"
+    },
+    {
+      "name": "CV Series",
+      "img": "https://www.internationaltrucks.com/-/media/Project/International-Trucks/International-Trucks/USA/Models/CV-Series/General-Images/CV_6x4_Flatbed_truck.jpg?h=320&iar=0&w=650&rev=2cc67b54b4b74108b0118fd0be8889f9&hash=558E0869D83413A9D111DD7174495AC2"
+    },
+    {
+      "name": "HX Series",
+      "img": "https://www.internationaltrucks.com/-/media/Project/International-Trucks/International-Trucks/USA/Models/HX-Series/General-Images/HX_SemiTruck_Day.jpg?h=320&iar=0&w=650&rev=d7925b4e63eb4cbeaed5d90706d3e9db&hash=F392F0F9F6649C84D3347FCE2C9611D2"
+    }
+  ]
+}
