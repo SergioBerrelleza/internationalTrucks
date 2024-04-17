@@ -23,6 +23,22 @@
     {
       "name": "HX Series",
       "img": "https://www.internationaltrucks.com/-/media/Project/International-Trucks/International-Trucks/USA/Models/HX-Series/2023/HX-Series-powerful-shift-truck-only.png?h=520&iar=0&w=750&rev=ae76e3e5fc2943a3b766689ff266a01f&hash=A2D05D566AAB68DB71128FB40BB63C21"
+    },
+    {
+      "name": "HV Series",
+      "img": "https://www.internationaltrucks.com/-/media/Project/International-Trucks/International-Trucks/USA/Models/HV-Series/Slider/Vocation-Concrete.jpg?h=160&iar=0&w=260&rev=45d0b759deee4c979166725adcc5237c&hash=E6D767430BE7A8B61D2B9576944499FB"
+    },
+    {
+      "name": "TranStar Series",
+      "img": "https://www.portalautomotriz.com/sites/portalautomotriz.com/files/styles/pa3_400x288/public/media/photos/00132019-original.jpeg?itok=YF5VcNB0&timestamp=1417210182"
+    },
+    {
+      "name": "WorkStar Series",
+      "img": "https://www.internationaltrucks.com/-/media/Project/International-Trucks/International-Trucks/USA/Models/WORKSTAR/2ProductDetailVocation_Dump_WorkStar_DT_260x160.png?h=160&iar=0&w=260&rev=0ffe3437f309485a93c7974ab2d48f39&hash=EB93AF17F85646DE7D11479F9D5232B4"
+    },
+    {
+      "name": "DuraStar Series",
+      "img": "https://www.internationaltrucks.com/-/media/Project/International-Trucks/International-Trucks/USA/Models/DURASTAR/ProductDetailVocation_FireEmergecy_DuraStar_DT_260x160.jpg?h=160&iar=0&w=260&rev=28f7a09efade46c48b4bb32bf922ca19&hash=5C54294441231DFD960D046A13C2FC1E"
     }
   ]
 }
